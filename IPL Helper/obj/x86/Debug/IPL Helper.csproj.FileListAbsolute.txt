@@ -1,0 +1,92 @@
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\bin\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\bin\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\obj\x86\Debug\IPL_Helper.Form1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\obj\x86\Debug\IPL_Helper.Properties.Resources.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\obj\x86\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper\obj\x86\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\bin\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\bin\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\IPL_Helper.Form1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\IPL_Helper.Properties.Resources.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\Interop.Office.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\Interop.VBIDE.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\obj\x86\Debug\IPL Helper.csproj.ResolveComReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 002\bin\Debug\IPL Helper.exe.config
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\bin\Debug\IPL Helper.exe.config
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\Interop.Office.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\Interop.VBIDE.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\IPL Helper.csproj.ResolveComReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\IPL_Helper.Form1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\IPL_Helper.Properties.Resources.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\bin\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\bin\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 003\obj\x86\Debug\IPL_Helper.AboutBox1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\bin\Debug\IPL Helper.exe.config
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\Interop.Office.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\Interop.VBIDE.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\IPL Helper.csproj.ResolveComReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\bin\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\bin\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\IPL_Helper.AboutBox1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\IPL_Helper.Form1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\IPL_Helper.Properties.Resources.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 004\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\bin\Debug\IPL Helper.exe.config
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\Interop.Office.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\Interop.VBIDE.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\IPL Helper.csproj.ResolveComReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\bin\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\bin\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\IPL_Helper.AboutBox1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\IPL_Helper.Form1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\IPL_Helper.Properties.Resources.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 005\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\bin\Debug\IPL Helper.exe.config
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\Interop.Office.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\Interop.VBIDE.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\IPL Helper.csproj.ResolveComReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\bin\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\bin\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\IPL_Helper.AboutBox1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\IPL_Helper.Form1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\IPL_Helper.Properties.Resources.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 006\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\bin\Debug\IPL Helper.exe.config
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\Interop.Office.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\Interop.VBIDE.dll
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\IPL Helper.csproj.ResolveComReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\bin\Debug\IPL Helper.exe
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\bin\Debug\IPL Helper.pdb
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\IPL_Helper.AboutBox1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\IPL_Helper.Form1.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\IPL_Helper.Properties.Resources.resources
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Excel\IPL Helper 007\obj\x86\Debug\GenerateResource.write.1.tlog
